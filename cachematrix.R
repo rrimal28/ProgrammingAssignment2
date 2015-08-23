@@ -1,5 +1,4 @@
-## Caching the Inverse of a Matrix
-
+# Caching the Inverse of a Matrix
 
 makeCacheMatrix <- function(x = matrix()) {
 # it is given that x is invertible matrix
